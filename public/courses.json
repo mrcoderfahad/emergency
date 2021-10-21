@@ -1,0 +1,78 @@
+[
+  {
+      "id": 1,
+      "Treatment": "CANCER THERAPY",
+      "desc": "Surgery, radiation, chemotherapy and hormone therapy can all be used to relieve symptoms. Other medications may relieve symptoms such as pain and shortness of breath. Palliative treatment can be used at the same time as other treatments intended to cure your cancer",
+      "img": "https://i.ibb.co/RS2vTRq/Capture.jpg",
+      "rating": 5,
+      "ratingCount": "320"
+  },
+  {
+      "id": 2,
+      "treatment": "DENTAL SURGERY",
+      "desc": "Dental surgery is any of a number of medical procedures that involve artificially modifying dentition; in other words, surgery of the teeth, gums and jaw bones. ",
+      "img": "https://i.ibb.co/djq4T0P/Dialysis.jpg",
+      "rating": 4.2,
+      "ratingCount": "450"
+  },
+  {
+      "id": 3,
+      "treatment": "DIAGNOSE AND RESERCH",
+      "desc": "The injured part of a broken hand will often be immobilized with a splint or cast",
+      "img": "https://images.emedicinehealth.com/images/article/main_image/broken-hand.jpg",
+      "rating": 4,
+      "ratingCount": "680"
+  },
+  {
+      "id": 4,
+      "treatment": " CARDIOLOGY",
+      "desc": "Plastic and Reconstructive Surgery",
+      "img": "https://www.fortishealthcare.com/speciality_banner/mobile/Plastic,-Cosmetic-&-Reconstructive-Surgery.jpg",
+      "rating": 4,
+      "ratingCount": "680"
+  },
+  {
+      "id": 5,
+      "treatment": "ORTHOPEDIC",
+      "desc": "Most people are able to start returning to many of their normal activities within a few months.",
+      "img": "https://videohive.img.customer.envatousercontent.com/files/6c770a51-5c7a-4b2a-84d3-da1f521c74a9/inline_image_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=da735d6c582f81c9b4daef00e906f90c",
+      "rating": 4.5,
+      "ratingCount": "560"
+  },
+  {
+      "id": 6,
+      "treatment": "EYE CARE ",
+      "desc": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
+      "img": "https://i.ibb.co/kX3XtgR/eye-care.jpg",
+      "rating": 3.5,
+      "ratingCount": "120"
+    
+  },
+  {
+      "id": 7,
+      "treatment": "DIALYSIS",
+      "desc": "An appendectomy is the surgical removal of the appendix. It’s a common emergency surgery that’s performed to treat appendicitis, an inflammatory condition of the appendix.",
+      "img": "https://i.ibb.co/djq4T0P/Dialysis.jpg",
+      "rating": 5,
+      "ratingCount": "720"
+      
+  },
+  {
+      "id": 8,
+      "treatment": "HEALTH CHECK",
+      "desc": "Laparoscopic cholecystectomy is a routine gallbladder removal procedure.",
+      "img": "https://i.ibb.co/KXQXcyD/orthopedic.jpg",
+      "rating": 5,
+      "ratingCount": "420"
+     
+  },
+  {
+      "id": 9,
+      "treatment": "MENTAL DISORDER",
+      "desc": "Designed to be highly collaborative, tele-critical care solutions offer providers centralized, remote clinical surveillance by skilled professionals.",
+      "img": "https://i.ibb.co/mN0CgkP/mental.jpg",
+      "rating": 4.5,
+      "ratingCount": "620"
+      
+  }
+]
